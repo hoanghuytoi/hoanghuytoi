@@ -1,4 +1,3 @@
-
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/channels/1375371488827412520/1375473836124016670) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/toi.hoang.75248795) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hoanghuytoi/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@shopfocy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/tieuoc113) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@AutoTool_HHT) 
 
@@ -15,8 +14,28 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=hoanghuytoi&icon=4&color=4)](https://visitcount.itsvg.in)
+
+## 🌟 Dự án nổi bật
+| Tên dự án | Mô tả | Link |
+|-----------|-------|------|
+| **Quản lý tour du lịch** | Dự án quản lý tour du lịch, giúp người dùng dễ dàng đặt tour và quản lý thông tin du lịch. | [Repo/Demo](https://github.com/hoanghuytoi/CongTyDuLich-Nhom5-JavaProject.git) |
+| **E-Commercial-Market-Place-Application** | Ứng dụng thương mại điện tử, cho phép người dùng mua bán sản phẩm trực tuyến. | [Repo/Demo](https://github.com/hoanghuytoi/E-Commercial-Market-Place-Application-N13.git) |
+| **Shop bán phụ kiện điện thoại** | Website bán phụ kiện điện thoại, cung cấp các sản phẩm chất lượng cao cho người dùng. | [Repo/Demo](https://github.com/hoanghuytoi/BAI_TAP_LON_WWW_NHOM11.git) |
+| **Ứng dụng trò chuyện Zalo (Web/App)** | Ứng dụng trò chuyện trực tuyến, cho phép người dùng giao tiếp và chia sẻ thông tin. | [Repo/Demo](https://github.com/hoanghuytoi/BE_Zalo_CNM.git) |
+| **Website bán giày giép** | Website bán giày dép, cung cấp các sản phẩm thời trang cho người dùng. | [Repo/Demo](https://github.com/hoanghuytoi/BE-ProjectKTPM-ShopShoes_N13.git) |
+
+## 🎓 Học vấn
+- **Trường Đại học Công Nghiệp TP.HCM** -
+
+## 🎯 Sở thích
+- Đọc sách về công nghệ
+- Tham gia các hội thảo và sự kiện công nghệ
+- Chơi game
+
+## 📞 Liên hệ
+- Email: hoanghuytoigl113@gmail.com
+- Facebook: https://www.facebook.com/toi.hoang.75248795
+
+## 🙏 Cảm ơn
+Cảm ơn tất cả những người đã hỗ trợ và đồng hành cùng mình trong hành trình phát triển!
