@@ -25,6 +25,7 @@
 | Tên dự án | Mô tả | Link |
 |-----------|-------|------|
 | **Quản lý tour du lịch** | Dự án quản lý tour du lịch, giúp người dùng dễ dàng đặt tour và quản lý thông tin du lịch. | [Repo/Demo](https://github.com/hoanghuytoi/CongTyDuLich-Nhom5-JavaProject.git) |
+| **Hệ thống quản lý lương sản phẩm** | Hệ thống quản lý hợp đồng, sản phẩm, công đoạn, công nhân, nhân viên, tính lương. | [Repo/Demo](https://github.com/hoanghuytoi/PTUD_2023_Nhom05_DHKTPM17B.git) |
 | **E-Commercial-Market-Place-Application** | Ứng dụng thương mại điện tử, cho phép người dùng mua bán sản phẩm trực tuyến. | [Repo/Demo](https://github.com/hoanghuytoi/E-Commercial-Market-Place-Application-N13.git) |
 | **Shop bán phụ kiện điện thoại** | Website bán phụ kiện điện thoại, cung cấp các sản phẩm chất lượng cao cho người dùng. | [Repo/Demo](https://github.com/hoanghuytoi/BAI_TAP_LON_WWW_NHOM11.git) |
 | **Ứng dụng trò chuyện Zalo (Web/App)** | Ứng dụng trò chuyện trực tuyến, cho phép người dùng giao tiếp và chia sẻ thông tin. | [Repo/Demo](https://github.com/hoanghuytoi/BE_Zalo_CNM.git) |
