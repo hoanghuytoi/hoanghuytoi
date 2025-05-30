@@ -80,14 +80,13 @@
   - Chuyên ngành: Kỹ thuật phần mềm
   - Thời gian: 2021 - 2025
   - GPA: 3.2/4.0
-  - Các khóa học nổi bật: Lập trình Web, Cơ sở dữ liệu, Phát triển ứng dụng di động
+  - Chương trình đã tham gia: Lập trình Web, Cơ sở dữ liệu, Phát triển ứng dụng di động
 
 ## 🎯 Sở thích & Hoạt động
-- 📚 Đam mê đọc sách về công nghệ và phát triển bản thân
-- 🎮 Tham gia các cuộc thi hackathon và game jam
-- 🌟 Tham gia các hội thảo và sự kiện công nghệ để mở rộng kiến thức
-- 🎬 Xem review truyện tranh và phim hoạt hình Nhật Bản
-- 💻 Thử nghiệm các công nghệ mới và chia sẻ kiến thức với cộng đồng
+- 📚 Đam mê đọc sách chuyên sâu về công nghệ, lập trình và phát triển bản thân nhằm không ngừng nâng cao tư duy và kỹ năng.
+- 🌐 Chủ động tham gia các hội thảo, sự kiện công nghệ để cập nhật xu hướng mới và kết nối với cộng đồng IT.
+- 🎥 Yêu thích theo dõi các bài review truyện tranh, anime Nhật Bản để giải trí và tìm cảm hứng sáng tạo.
+- 💡 Thường xuyên khám phá, thử nghiệm công nghệ mới và chia sẻ kiến thức qua blog, diễn đàn hoặc workshop nhằm lan tỏa giá trị cho cộng đồng lập trình viên.
 
 ## 📞 Liên hệ & Kết nối
 - 📧 Email: hoanghuytoigl113@gmail.com
