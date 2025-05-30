@@ -57,17 +57,30 @@
 | **Website bán giày giép** | Website bán giày dép, cung cấp các sản phẩm thời trang cho người dùng. | [Repo/Demo](https://github.com/hoanghuytoi/BE-ProjectKTPM-ShopShoes_N13.git) |
 
 ## 🎓 Học vấn
-- **Trường Đại học Công Nghiệp TP.HCM** -
+- **Trường Đại học Công Nghiệp TP.HCM (IUH)**
+  - Chuyên ngành: Kỹ thuật phần mềm
+  - Thời gian: 2021 - 2025
+  - GPA: 3.2/4.0
+  - Các khóa học nổi bật: Lập trình Web, Cơ sở dữ liệu, Phát triển ứng dụng di động
 
-## 🎯 Sở thích
-- Đọc sách về công nghệ
-- Tham gia các hội thảo và sự kiện công nghệ
-- Chơi game
-- Xem review truyện tranh
+## 🎯 Sở thích & Hoạt động
+- 📚 Đam mê đọc sách về công nghệ và phát triển bản thân
+- 🎮 Tham gia các cuộc thi hackathon và game jam
+- 🌟 Tham gia các hội thảo và sự kiện công nghệ để mở rộng kiến thức
+- 🎬 Xem review truyện tranh và phim hoạt hình Nhật Bản
+- 💻 Thử nghiệm các công nghệ mới và chia sẻ kiến thức với cộng đồng
 
-## 📞 Liên hệ
-- Email: hoanghuytoigl113@gmail.com
-- Facebook: https://www.facebook.com/toi.hoang.75248795
+## 📞 Liên hệ & Kết nối
+- 📧 Email: hoanghuytoigl113@gmail.com
+- 💼 LinkedIn: [Hoang Huy Toi](https://www.linkedin.com/in/ho%C3%A0ng-huy-t%E1%BB%9Bi-808847320/)
+- 📱 Facebook: [Hoang Huy Toi](https://www.facebook.com/toi.hoang.75248795)
+- 🌐 Portfolio: [hoanghuytoi.dev](https://github.com/hoanghuytoi)
 
-## 🙏 Cảm ơn
-Cảm ơn tất cả những người đã hỗ trợ và đồng hành cùng mình trong hành trình phát triển!
+## 🙏 Lời cảm ơn
+Cảm ơn tất cả những người đã đồng hành và hỗ trợ tôi trong hành trình phát triển! Đặc biệt là:
+- Gia đình và bạn bè đã luôn ủng hộ
+- Các mentor đã dẫn dắt và chia sẻ kinh nghiệm
+- Cộng đồng developer đã truyền cảm hứng
+- Các dự án đã cho tôi cơ hội học hỏi và phát triển
+
+*"Học hỏi là một hành trình không ngừng nghỉ, và tôi rất vui mừng được chia sẻ hành trình này với tất cả mọi người!"*
