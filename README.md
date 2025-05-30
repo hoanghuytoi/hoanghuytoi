@@ -1,9 +1,31 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm HoangHuyToi</h1>
-<h3 align="center">A developer from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cusimall&label=Profile%20views&color=0e75b6&style=flat" alt="cusimall" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+HoangHuyToi;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
+<h3 align="center">🚀 Full Stack Developer | 💻 Software Engineer | 🌟 Tech Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/hoanghuytoi?tab=repositories" target="_blank">
+    <img alt="GitHub Repositories" src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ho%C3%A0ng-huy-t%E1%BB%9Bi-808847320/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hoanghuytoigl113@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hoanghuytoi&label=Profile%20views&color=0e75b6&style=flat" alt="hoanghuytoi" />
+  <img src="https://img.shields.io/github/followers/hoanghuytoi?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hoanghuytoi&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/1375371488827412520/1375473836124016670) 
@@ -37,9 +59,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanghuytoi&theme=yeblu&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=hoanghuytoi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=hoanghuytoi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
