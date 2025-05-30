@@ -41,6 +41,7 @@
 - Đọc sách về công nghệ
 - Tham gia các hội thảo và sự kiện công nghệ
 - Chơi game
+- Xem review truyện tranh
 
 ## 📞 Liên hệ
 - Email: hoanghuytoigl113@gmail.com
