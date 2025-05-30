@@ -75,30 +75,30 @@
 | **Ứng dụng trò chuyện Zalo (Web/App)** | Ứng dụng trò chuyện trực tuyến, cho phép người dùng giao tiếp và chia sẻ thông tin. | [Repo/Demo](https://github.com/hoanghuytoi/BE_Zalo_CNM.git) |
 | **Website bán giày giép** | Website bán giày dép, cung cấp các sản phẩm thời trang cho người dùng. | [Repo/Demo](https://github.com/hoanghuytoi/BE-ProjectKTPM-ShopShoes_N13.git) |
 
-## 🎓 Học vấn
-- **Trường Đại học Công Nghiệp TP.HCM (IUH)**
-  - Chuyên ngành: Kỹ thuật phần mềm
-  - Thời gian: 2021 - 2025
+## 🎓 Education
+- **Industrial University of Ho Chi Minh City (IUH)**
+  - Major: Software Engineering
+  - Duration: 2021 - 2025
   - GPA: 3.2/4.0
-  - Chương trình đã tham gia: Lập trình Web, Cơ sở dữ liệu, Phát triển ứng dụng di động
+  - Programs participated: Web Programming, Database, Mobile Application Development
 
-## 🎯 Sở thích & Hoạt động
-- 📚 Đam mê đọc sách chuyên sâu về công nghệ, lập trình và phát triển bản thân nhằm không ngừng nâng cao tư duy và kỹ năng.
-- 🌐 Chủ động tham gia các hội thảo, sự kiện công nghệ để cập nhật xu hướng mới và kết nối với cộng đồng IT.
-- 🎥 Yêu thích theo dõi các bài review truyện tranh, anime Nhật Bản để giải trí và tìm cảm hứng sáng tạo.
-- 💡 Thường xuyên khám phá, thử nghiệm công nghệ mới và chia sẻ kiến thức qua blog, diễn đàn hoặc workshop nhằm lan tỏa giá trị cho cộng đồng lập trình viên.
+## 🎯 Interests & Activities
+- 📚 Reading in-depth books about technology, programming, and personal development to continuously enhance thinking and skills.
+- 🌐 Actively participating in technology conferences and events to stay updated with new trends and connect with the IT community.
+- 🎥 Enjoy following Japanese manga and anime reviews for entertainment and creative inspiration.
+- 💡 Regularly exploring and experimenting with new technologies and sharing knowledge through blogs, forums.
 
-## 📞 Liên hệ & Kết nối
+## 📞 Contact & Connect
 - 📧 Email: hoanghuytoigl113@gmail.com
 - 💼 LinkedIn: [Hoang Huy Toi](https://www.linkedin.com/in/ho%C3%A0ng-huy-t%E1%BB%9Bi-808847320/)
 - 📱 Facebook: [Hoang Huy Toi](https://www.facebook.com/toi.hoang.75248795)
 - 🌐 Portfolio: [hoanghuytoi.dev](https://github.com/hoanghuytoi)
 
-## 🙏 Lời cảm ơn
-Cảm ơn tất cả những người đã đồng hành và hỗ trợ tôi trong hành trình phát triển! Đặc biệt là:
-- Gia đình và bạn bè đã luôn ủng hộ
-- Các mentor đã dẫn dắt và chia sẻ kinh nghiệm
-- Cộng đồng developer đã truyền cảm hứng
-- Các dự án đã cho tôi cơ hội học hỏi và phát triển
+## 🙏 Acknowledgments
+Thank you to everyone who has accompanied and supported me in my development journey! Especially:
+- Family and friends for their constant support
+- Mentors for their guidance and experience sharing
+- The developer community for their inspiration
+- Projects that have given me opportunities to learn and grow
 
 *"Học hỏi là một hành trình không ngừng nghỉ, và tôi rất vui mừng được chia sẻ hành trình này với tất cả mọi người!"*
